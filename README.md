@@ -1,0 +1,1 @@
+Program that saves the user's login and password in file.txt
